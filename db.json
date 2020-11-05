@@ -1,8 +1,8 @@
 
 {
-	"id": 1,
-  "title": {"Lebanese black market rate"},
-  "descritption": {"get the latest rates"},
+  "id": 1,
+  "title": "Lebanese black market rate",
+  "descritption": "get the latest rates",
   "rate": [
 		{"id": "1", 
 		"usdtolbp": "8000"} 
