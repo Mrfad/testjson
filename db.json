@@ -1,5 +1,5 @@
 {
   "title": "Lebanese black market rate",
   "descritption": "get the latest rates",
-  "rate": {"id": 1, "usdrate": "8000"}
+  "rate": {"id": "1", "usdrate": "8000"}
 }
