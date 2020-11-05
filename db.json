@@ -1,62 +1,9 @@
 
-      [
-    
-    {
-        "id": 1005,
-        "name": "Test 3",
-        "email": "test@test.com",
-        "password": "123456",
-        "about": null,
-        "token": "cc2ed6c5-0a59-4aca-9b8e-a686e0a4fa03",
-        "country": null,
-        "location": null,
-        "lng": 0,
-        "lat": 0,
-        "dob": null,
-        "gender": 0,
-        "userType": 1,
-        "userStatus": 1,
-        "profilePicture": null,
-        "coverPicture": "Images/6d9afca5-3e79-4979-9091-a83d8df7b388.png",
-        "enablefollowme": false,
-        "sendmenotifications": false,
-        "sendTextmessages": false,
-        "enabletagging": false,
-        "createdAt": "0001-01-01T00:00:00",
-        "updatedAt": "2019-12-05T05:19:29.704463",
-        "livelng": 0,
-        "livelat": 0,
-        "liveLocation": null,
-        "creditBalance": 44,
-        "myCash": 0
-    },
-    {
-        "id": 1006,
-        "name": "Test 4",
-        "email": "test1@test.com",
-        "password": "123456",
-        "about": null,
-        "token": "f33f3325-bb08-41a5-b545-d2b5c443720f",
-        "country": null,
-        "location": null,
-        "lng": 0,
-        "lat": 0,
-        "dob": null,
-        "gender": 0,
-        "userType": 1,
-        "userStatus": 1,
-        "profilePicture": "Images/b3f2677f-10a8-46e6-8d48-cfba2cc1e0b5.png",
-        "coverPicture": "Images/e9845113-f874-469d-8e89-53a86f351887.png",
-        "enablefollowme": false,
-        "sendmenotifications": false,
-        "sendTextmessages": false,
-        "enabletagging": false,
-        "createdAt": "0001-01-01T00:00:00",
-        "updatedAt": "2019-12-05T05:22:11.8963884",
-        "livelng": 0,
-        "livelat": 0,
-        "liveLocation": null,
-        "creditBalance": 1,
-        "myCash": 0
-    }
-]
+{
+  "title": {"Lebanese black market rate"},
+  "descritption": {"get the latest rates"},
+  "rate": [
+		{"id": "1", 
+		"usdtolbp": "8000"} 
+	]
+}
