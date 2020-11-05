@@ -1,6 +1,8 @@
 {
-  "CurrentRate": {
-    "id": 1,
-    "usdrate": "8000"
-  }
+  "title": {"Lebanese black market rate"},
+  "descritption": {"get the latest rates"},
+  "rate": [
+		{"id": "1", 
+		"usdtolbp": "8000"} 
+	]
 }
